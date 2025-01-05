@@ -1,4 +1,4 @@
-# Coin Calculator
+# Coin Calculator (frontend)
 
 This project is the frontend part for [CoinCalculator](https://github.com/HIT-cenhaoyang/2025_CenHaoyang_backend).
 
