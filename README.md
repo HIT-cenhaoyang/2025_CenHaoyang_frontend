@@ -70,7 +70,7 @@ git clone https://github.com/HIT-cenhaoyang/2025_CenHaoyang_frontend
 
    Also create a docker-compose.yml can help to start the backend and frontend at the same time.
 
-   Create a docker-compose.yml
+   1. Create a docker-compose.yml
 
    ```
    services:
@@ -98,4 +98,9 @@ git clone https://github.com/HIT-cenhaoyang/2025_CenHaoyang_frontend
    networks:
      coins-network:
        driver: bridge
+   ```
+
+   2. Start Docker Compose
+   ```
+   docker compose up -d
    ```
